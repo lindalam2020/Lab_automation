@@ -25,4 +25,10 @@ This script transfers liquid from one to four 96-well plates into a single 384-w
 
 ### 96-well plate to 96-well plate
 
-This script transfers liquid from one to three 96-well plates, performing minor transfers. The number of columns for each 96-well plate can be adjusted in the script below.
+This script transfers liquid from one to three 96-well plates using an 8-channel head, performing minor transfers. The number of columns for each 96-well plate can be adjusted in the script.
+
+An example of where the number of columns can be adjusted is shown below.
+![scrip image](./mirrortransfer_scrip.png)
+
+An image showing how the liquid is stamped and how the deck is configured is displayed below.
+![Liquid transfer example](./96wellplatemirrorstamp.png)

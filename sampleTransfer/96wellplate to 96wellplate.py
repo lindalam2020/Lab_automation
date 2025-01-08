@@ -34,9 +34,9 @@ def run(protocol):
    p20_multi = protocol.load_instrument('p20_multi_gen2', 'left', tip_racks=tiprack20)
    
   #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~PCR plate column number ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-   source_plate1_col = 7   # number of columns in plate1 in slot 2
-   source_plate2_col = 0 # number of columns in plate2 in slot 5
-   source_plate3_col = 0 # number of columns in pla te3 in slot 8   
+   source_plate1_col = 3   # number of columns in plate1 in slot 2
+   source_plate2_col = 1 # number of columns in plate2 in slot 5
+   source_plate3_col = 0 # number of columns in plate3 in slot 8   
    DNA_vol = 2 
    #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    # 1st plate code
