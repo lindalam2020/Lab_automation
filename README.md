@@ -6,8 +6,9 @@
     - [Background](#background)
     - [Goals](#goals)
 2. [Scrip](#scrip)
-    - [96 well plate to 384 plate](#96 well plate to 384 plate)
-    - [96 well plate to 96 well plate](#96 well plate to 384 plate)
+    - [96-well plate to 384-well plate](#96-well-plate-to-384-well-plate)
+    - [96-well plate to 96-well plate](#96-well-plate-to-96-well-plate)
+
 
 
 ## Background
