@@ -7,7 +7,7 @@ Created on Tue Sep  7 22:09:58 2021
 """
 import math
 #metadata
-metadata = {'protocolName': 'Genotyping_384','author': 'Linda <linda@laragen.com','description': 'Genotyping 384','apiLevel': '2.10'}
+metadata = {'protocolName': 'Genotyping_384','author': 'Linda','description': 'Genotyping 384','apiLevel': '2.10'}
 
 def run(protocol):
     # labware
