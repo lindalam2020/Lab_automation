@@ -37,3 +37,5 @@ An example of where the number of columns can be adjusted is shown below.
 An image showing how the liquid is stamped and how the deck is configured is displayed below.
 
 ![Liquid transfer example](./96wellplatemirrorstamp.png)
+
+
